@@ -1,0 +1,1 @@
+This is a bit of code i created to try and understand the PID closed control loop a little better. I made it simulate a cars speed and make the setpoint 25mph to see if the PID controller can stabalise the speed of the car turns out it worked quite well. Fell free to tune the controller and mess around with values to experiment :) - jxmiecole
